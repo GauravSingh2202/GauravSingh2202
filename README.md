@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineering Student</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=GauravSingh2217">
+  <a href="https://komarev.com/ghpvc/?username=GauravSingh2202">
     <img src="https://komarev.com/ghpvc/?username=GauravSingh2217&label=Profile%20views&color=00FFFF&style=flat-square" alt="GauravSingh2217's profile views" />
   </a>
 </p>
